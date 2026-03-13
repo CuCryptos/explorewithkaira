@@ -35,7 +35,7 @@ export function KairaShell({ brandConfig, navCategories, children }: KairaShellP
             <div>
               <p className="text-xs uppercase tracking-[0.2em] text-mugon-muted">About</p>
               <div className="mt-3 flex flex-col gap-2 text-sm">
-                <a href="/about" className="hover:text-mugon-primary">Read the philosophy</a>
+                <a href="/about" className="hover:text-mugon-primary">About Kaira</a>
                 <span className="text-mugon-muted">No sponsors. No comped stays. No affiliate rankings.</span>
               </div>
             </div>

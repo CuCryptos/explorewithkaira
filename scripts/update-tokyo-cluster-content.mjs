@@ -27,7 +27,7 @@ const siteId = process.env.SITE_ID;
 
 const clusterLinks = `
 <div class="kaira-cluster-links" data-kaira-cluster-links="tokyo">
-  <p class="kaira-eyebrow">Build the rest of your Tokyo trip</p>
+  <p class="kaira-eyebrow">More Tokyo guides</p>
   <ul>
     <li><a href="/tokyo-luxury-hotels-aman-park-hyatt">Best luxury hotels in Tokyo</a></li>
     <li><a href="/where-to-stay-in-tokyo-luxury-neighborhood-guide">Where to stay in Tokyo</a></li>
@@ -46,14 +46,14 @@ const updates = [
     callout: `
 <div class="kaira-callout" data-kaira-cluster="tokyo-hotels">
   <p class="kaira-eyebrow">Who this is for</p>
-  <p>This guide is for travelers deciding where to stay in Tokyo and which luxury hotels are actually worth the rate. If you are building the full trip, start with my <a href="/tokyo-weekend-guide-three-days">3-day Tokyo itinerary</a>, keep these <a href="/tokyo-hidden-gems-secret-corners">Tokyo hidden gems</a> open for the quieter hours, and compare this list with my <a href="/aman-tokyo-honest-review">Aman Tokyo review</a>.</p>
+  <p>This guide is for travelers deciding where to stay in Tokyo and which luxury hotels are actually worth the rate. If you want the fuller city plan too, start with my <a href="/tokyo-weekend-guide-three-days">3-day Tokyo itinerary</a>, keep these <a href="/tokyo-hidden-gems-secret-corners">Tokyo hidden gems</a> open for the quieter hours, and compare this list with my <a href="/aman-tokyo-honest-review">Aman Tokyo review</a>.</p>
 </div>
     `.trim(),
     replacements: [
       {
         from:
           /<p>A practical note before we begin:[\s\S]*?feel like the journey has already begun\.<\/p>/,
-        to: `<p>A practical note before we begin: Tokyo's luxury hotels offer their most gracious rates in January and February, when the city belongs to its residents again, and during the moody rains of June. If cherry blossoms are your reason, book three to six months ahead. Getting from Haneda to most of these addresses costs around six to eight thousand yen by taxi, though several properties send sleek limousine buses that cost a fraction of that and feel like the journey has already begun. If you are still shaping the trip around the stay, pair this list with my <a href="/tokyo-weekend-guide-three-days">3-day Tokyo itinerary</a> and save these <a href="/tokyo-hidden-gems-secret-corners">Tokyo hidden gems</a> for the slower pockets between hotel check-ins.</p>`,
+        to: `<p>A practical note before we begin: Tokyo's luxury hotels offer their most gracious rates in January and February, when the city belongs to its residents again, and during the moody rains of June. If cherry blossoms are your reason, book three to six months ahead. Getting from Haneda to most of these addresses costs around six to eight thousand yen by taxi, though several properties send sleek limousine buses that cost a fraction of that and feel like the journey has already begun. If you want the rest of the stay to feel just as considered, pair this list with my <a href="/tokyo-weekend-guide-three-days">3-day Tokyo itinerary</a> and save these <a href="/tokyo-hidden-gems-secret-corners">Tokyo hidden gems</a> for the slower pockets between hotel check-ins.</p>`,
       },
     ],
   },
@@ -76,7 +76,7 @@ const updates = [
     callout: `
 <div class="kaira-callout" data-kaira-cluster="tokyo-hidden-gems">
   <p class="kaira-eyebrow">What I mean by Tokyo hidden gems</p>
-  <p>This is not a list of gimmicks or places that only sound secret on social media. It is for readers who want the quieter Tokyo that reveals itself slowly. Use it alongside my <a href="/tokyo-weekend-guide-three-days">3-day Tokyo itinerary</a>, my guide to the <a href="/tokyo-luxury-hotels-aman-park-hyatt">best luxury hotels in Tokyo</a>, and my <a href="/aman-tokyo-honest-review">Aman Tokyo review</a> if you are building the whole trip at once.</p>
+  <p>This is not a list of gimmicks or places that only sound secret on social media. It is for readers who want the quieter Tokyo that reveals itself slowly. Read it alongside my <a href="/tokyo-weekend-guide-three-days">3-day Tokyo itinerary</a>, my guide to the <a href="/tokyo-luxury-hotels-aman-park-hyatt">best luxury hotels in Tokyo</a>, and my <a href="/aman-tokyo-honest-review">Aman Tokyo review</a> if you want the whole city in one sitting.</p>
 </div>
     `.trim(),
     replacements: [],
@@ -88,7 +88,7 @@ const updates = [
     callout: `
 <div class="kaira-callout" data-kaira-cluster="aman-tokyo-review">
   <p class="kaira-eyebrow">Who this Aman Tokyo review is for</p>
-  <p>This is for travelers wondering whether Aman Tokyo is still worth the price in a city that now has more serious luxury competition. If you are comparing options, start with my guide to the <a href="/tokyo-luxury-hotels-aman-park-hyatt">best luxury hotels in Tokyo</a>, then map the rest of the stay with my <a href="/tokyo-weekend-guide-three-days">3-day Tokyo itinerary</a> and these <a href="/tokyo-hidden-gems-secret-corners">Tokyo hidden gems</a>.</p>
+  <p>This is for travelers wondering whether Aman Tokyo is still worth the price in a city that now has more serious luxury competition. If you are comparing options, start with my guide to the <a href="/tokyo-luxury-hotels-aman-park-hyatt">best luxury hotels in Tokyo</a>, then round out the stay with my <a href="/tokyo-weekend-guide-three-days">3-day Tokyo itinerary</a> and these <a href="/tokyo-hidden-gems-secret-corners">Tokyo hidden gems</a>.</p>
 </div>
     `.trim(),
     replacements: [],

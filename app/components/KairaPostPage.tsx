@@ -96,7 +96,7 @@ export function KairaPostPage({
                     href="/about"
                     className="rounded-full border border-mugon-border bg-mugon-surface px-4 py-2 text-[#1d1610] transition-colors hover:border-mugon-primary hover:text-mugon-primary"
                   >
-                    Read the philosophy
+                    About Kaira
                   </a>
                 </div>
               </div>
@@ -128,8 +128,8 @@ export function KairaPostPage({
 
             <aside className="space-y-5 lg:sticky lg:top-28 lg:self-start">
               <div className="rounded-[28px] border border-mugon-border/80 bg-mugon-surface p-6 shadow-[0_18px_50px_rgba(22,16,10,0.05)]">
-                <p className="text-[0.7rem] uppercase tracking-[0.22em] text-mugon-muted">About this site</p>
-                <h2 className="mt-3 font-mugon-heading text-2xl text-mugon-text">Kaira writes with skin in the game.</h2>
+                <p className="text-[0.7rem] uppercase tracking-[0.22em] text-mugon-muted">Why this is useful</p>
+                <h2 className="mt-3 font-mugon-heading text-2xl text-mugon-text">Honest travel writing, minus the brochure voice.</h2>
                 <p className="mt-3 text-sm leading-7 text-mugon-muted">
                   No sponsors, no comped stays, and no affiliate rankings dressed up as editorial authority.
                   If a hotel is praised here, it had to earn it.
@@ -137,7 +137,7 @@ export function KairaPostPage({
               </div>
 
               <div className="rounded-[28px] border border-mugon-border/80 bg-[#1d1610] p-6 text-[#f6efe2] shadow-[0_18px_50px_rgba(22,16,10,0.10)]">
-                <p className="text-[0.7rem] uppercase tracking-[0.22em] text-[#d8c4a4]">Keep reading</p>
+                <p className="text-[0.7rem] uppercase tracking-[0.22em] text-[#d8c4a4]">Keep exploring</p>
                 <div className="mt-4 flex flex-col gap-3 text-sm leading-6">
                   {category && (
                     <a href={`/category/${category.slug}`} className="rounded-2xl border border-white/10 px-4 py-3 hover:bg-white/6">
@@ -161,7 +161,7 @@ export function KairaPostPage({
                 <div>
                   <p className="text-[0.7rem] uppercase tracking-[0.22em] text-mugon-muted">Worth reading next</p>
                   <h2 className="mt-2 font-mugon-heading text-[clamp(2rem,4vw,3rem)] leading-[1] text-mugon-text">
-                    Don’t drop out after one good story.
+                    More stories worth your time.
                   </h2>
                 </div>
               </div>
@@ -191,7 +191,7 @@ export function KairaPostPage({
                         Explore With Kaira is built for readers who want the atmosphere of a luxury travel magazine without the emptiness of sponsored copy.
                       </p>
                       <a href="/about" className="mt-4 inline-flex text-sm text-mugon-primary hover:underline">
-                        Read the philosophy
+                        About Kaira
                       </a>
                     </div>
                   </div>

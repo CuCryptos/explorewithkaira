@@ -34,7 +34,7 @@ const featuredImage =
 const content = `
 <div class="kaira-callout" data-kaira-cluster="tokyo-neighborhood-guide">
   <p class="kaira-eyebrow">Who this Tokyo neighborhood guide is for</p>
-  <p>This is for travelers who have already accepted that Tokyo is not one city but several moods stitched together by trains. If you are choosing between hotels, start with my guide to the <a href="/tokyo-luxury-hotels-aman-park-hyatt">best luxury hotels in Tokyo</a>. If you are shaping the rest of the trip too, keep my <a href="/tokyo-weekend-guide-three-days">3-day Tokyo itinerary</a>, my <a href="/tokyo-hidden-gems-secret-corners">Tokyo hidden gems guide</a>, and my <a href="/aman-tokyo-honest-review">Aman Tokyo review</a> open in the next tab.</p>
+  <p>This is for travelers who have already accepted that Tokyo is not one city but several moods stitched together by trains. If you are choosing between hotels, start with my guide to the <a href="/tokyo-luxury-hotels-aman-park-hyatt">best luxury hotels in Tokyo</a>. If you want the rest of the city mapped clearly too, keep my <a href="/tokyo-weekend-guide-three-days">3-day Tokyo itinerary</a>, my <a href="/tokyo-hidden-gems-secret-corners">Tokyo hidden gems guide</a>, and my <a href="/aman-tokyo-honest-review">Aman Tokyo review</a> nearby.</p>
 </div>
 <p>Where you stay in Tokyo decides what the city becomes. Choose badly, and Tokyo feels like a long series of train transfers between neighborhoods other people are enjoying more than you are. Choose well, and the city begins to make emotional sense. Morning coffee is on the right street. The walk back from dinner feels cinematic instead of logistical. You stop treating the hotel like a place to sleep and start using it as a lens.</p>
 <p>The mistake most first-time visitors make is booking a famous hotel before they understand the neighborhood around it. Tokyo is too large and too textured for that. You are not simply choosing a room. You are choosing your mornings, your late-night walks, your restaurant radius, and the version of Tokyo that will feel easiest to love.</p>
@@ -66,7 +66,7 @@ const content = `
 </ul>
 <p>If you are still comparing actual properties, go back to my guide to the <a href="/tokyo-luxury-hotels-aman-park-hyatt">best luxury hotels in Tokyo</a>. That is the page for choosing the hotel. This page is for choosing the version of Tokyo you want to wake up inside.</p>
 <div class="kaira-cluster-links" data-kaira-cluster-links="tokyo">
-  <p class="kaira-eyebrow">Build the rest of your Tokyo trip</p>
+  <p class="kaira-eyebrow">More Tokyo guides</p>
   <ul>
     <li><a href="/tokyo-luxury-hotels-aman-park-hyatt">Best luxury hotels in Tokyo</a></li>
     <li><a href="/where-to-stay-in-tokyo-luxury-neighborhood-guide">Where to stay in Tokyo</a></li>
