@@ -53,34 +53,34 @@ export function KairaHomePage({
             <div>
               <div className="mb-4 flex flex-wrap items-center gap-3 text-[0.7rem] uppercase tracking-[0.22em] text-[#6c5a49]">
                 <span className="rounded-full border border-mugon-border bg-mugon-surface px-3 py-1 text-mugon-primary">
-                  Kaira’s Front Page
+                  Start here
                 </span>
-                <span>Luxury travel without the brochure voice</span>
+                <span>Honest hotel reviews and destination stories</span>
               </div>
               <h1 className="max-w-4xl font-mugon-heading text-[clamp(3rem,7vw,6rem)] leading-[0.94] text-[#1d1610]">
-                A sharper kind of luxury travel magazine.
+                Luxury travel for people who still want the truth.
               </h1>
               <p className="mt-5 max-w-2xl text-[1.02rem] leading-8 text-[#5f4e3e]">
-                Honest hotel reviews, destination stories, and itineraries for people who want
-                something better than affiliate lists and gifted-stay fiction.
+                Honest hotel reviews, destination stories, and itineraries for readers who want
+                better recommendations, better hotels, and fewer brochure words.
               </p>
             </div>
 
             <div className="rounded-[30px] border border-mugon-border/80 bg-mugon-surface/80 p-6 shadow-[0_22px_70px_rgba(22,16,10,0.06)]">
               <p className="text-[0.7rem] uppercase tracking-[0.22em] text-[#6c5a49]">
-                Why this feels different
+                Why readers come here
               </p>
               <div className="mt-5 space-y-4">
                 <div>
-                  <p className="font-mugon-heading text-xl text-[#1d1610]">Paid stays. Named properties.</p>
+                  <p className="font-mugon-heading text-xl text-[#1d1610]">Hotels worth the money.</p>
                   <p className="mt-1 text-sm leading-6 text-[#5f4e3e]">
-                    The useful details stay in: what felt worth the money, what disappointed, and what the glossy photos left out.
+                    Reviews stay specific: what felt worth it, what disappointed, and what the glossy photos left out.
                   </p>
                 </div>
                 <div>
-                  <p className="font-mugon-heading text-xl text-[#1d1610]">Less bucket list, more taste.</p>
+                  <p className="font-mugon-heading text-xl text-[#1d1610]">Places with texture, not just hype.</p>
                   <p className="mt-1 text-sm leading-6 text-[#5f4e3e]">
-                    Stories are organized around mood, hotel fit, and how a place actually feels once you arrive.
+                    Stories are built around neighborhoods, hotel fit, and how a place actually feels once you arrive.
                   </p>
                 </div>
               </div>
@@ -149,13 +149,13 @@ export function KairaHomePage({
                 <p className="text-[0.7rem] uppercase tracking-[0.22em] text-[#d8c4a4]">What you’ll find here</p>
                 <div className="mt-5 grid gap-4">
                   <div className="rounded-[22px] border border-white/10 bg-white/6 p-4">
-                    <p className="font-mugon-heading text-xl">Hotel reviews with a point of view</p>
+                    <p className="font-mugon-heading text-xl">Hotel reviews that help you book better</p>
                   </div>
                   <div className="rounded-[22px] border border-white/10 bg-white/6 p-4">
-                    <p className="font-mugon-heading text-xl">Destination guides that still feel discovered</p>
+                    <p className="font-mugon-heading text-xl">Destination guides with mood, neighborhoods, and taste</p>
                   </div>
                   <div className="rounded-[22px] border border-white/10 bg-white/6 p-4">
-                    <p className="font-mugon-heading text-xl">Itineraries built like an editor, not a search result</p>
+                    <p className="font-mugon-heading text-xl">Itineraries that make a short trip feel considered</p>
                   </div>
                 </div>
               </section>
@@ -169,7 +169,7 @@ export function KairaHomePage({
           <div>
             <p className="text-[0.7rem] uppercase tracking-[0.22em] text-mugon-muted">Recent reading</p>
             <h2 className="mt-2 font-mugon-heading text-[clamp(2rem,4vw,3rem)] leading-[1] text-mugon-text">
-              The stories pulling people deeper into the site.
+              The latest stories worth your time.
             </h2>
           </div>
         </div>
@@ -203,11 +203,11 @@ export function KairaHomePage({
             <div>
               <p className="text-[0.7rem] uppercase tracking-[0.22em] text-mugon-muted">Browse by intent</p>
               <h2 className="mt-2 font-mugon-heading text-[clamp(2rem,4vw,3rem)] leading-[1] text-mugon-text">
-                Read by the kind of trip you’re actually planning.
+                Choose the kind of trip you’re planning.
               </h2>
             </div>
             <a href="/about" className="text-sm text-mugon-primary hover:underline">
-              Why Kaira writes this way
+              About Kaira
             </a>
           </div>
           <div className="flex flex-wrap gap-3">
