@@ -3,7 +3,6 @@ import type { Category, Post } from '@/types';
 import { KairaShell } from './KairaShell';
 import { KairaStoryCard } from './KairaStoryCard';
 import { KairaSchemaMarkup } from './KairaSchemaMarkup';
-import { KairaSeoHead } from './KairaSeoHead';
 import { brandConfig, navCategories } from '@/lib/brand';
 
 interface KairaPostPageProps {
@@ -55,7 +54,6 @@ export function KairaPostPage({
 
   return (
     <>
-      <KairaSeoHead brandConfig={brandConfig} post={post} page="post" baseUrl={baseUrl} />
       <KairaSchemaMarkup type="article" data={post} brandConfig={brandConfig} />
       <KairaShell brandConfig={brandConfig} navCategories={navCategories}>
         <article>
