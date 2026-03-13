@@ -24,6 +24,9 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
   return {
     title,
     description,
+    alternates: {
+      canonical: `/category/${slug}`,
+    },
     openGraph: { title, description, url, type: 'website' },
     twitter: { card: 'summary_large_image', title, description },
   };

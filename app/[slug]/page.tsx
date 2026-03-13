@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { posts, categories } from '@/lib/supabase';
-import { siteId, baseUrl } from '@/lib/brand';
+import { brandConfig, siteId, baseUrl } from '@/lib/brand';
 import { KairaPostPage } from '../components/KairaPostPage';
 
 interface SlugPageProps {
@@ -25,7 +25,31 @@ export async function generateMetadata({ params }: SlugPageProps): Promise<Metad
   const { slug } = await params;
   try {
     const post = await posts.getPostBySlug(siteId, slug);
-    return { title: post.seo.metaTitle || post.title };
+    const title = post.seo.metaTitle || post.title;
+    const description = post.seo.metaDescription || post.excerpt || brandConfig.seoDefaults.metaDescription;
+    const canonical = `/${post.slug}`;
+    const ogImage = post.seo.ogImage || post.featuredImage || brandConfig.seoDefaults.ogImage;
+
+    return {
+      title,
+      description,
+      alternates: {
+        canonical,
+      },
+      openGraph: {
+        type: 'article',
+        url: `${baseUrl}/${post.slug}`,
+        title,
+        description,
+        images: [{ url: ogImage }],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title,
+        description,
+        images: [ogImage],
+      },
+    };
   } catch {
     return {};
   }
