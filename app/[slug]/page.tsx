@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { posts, categories } from '@/lib/supabase';
 import { brandConfig, siteId, baseUrl } from '@/lib/brand';
+import { isUsableImageUrl, resolvePostDescription, resolvePostOgImage } from '@/lib/seo';
 import { KairaPostPage } from '../components/KairaPostPage';
 
 interface SlugPageProps {
@@ -9,11 +10,7 @@ interface SlugPageProps {
 }
 
 function hasValidImage(post: { featuredImage?: string }): boolean {
-  return Boolean(
-    post.featuredImage &&
-    !post.featuredImage.includes('404') &&
-    !post.featuredImage.includes('wp-content'),
-  );
+  return isUsableImageUrl(post.featuredImage);
 }
 
 export async function generateStaticParams() {
@@ -26,9 +23,9 @@ export async function generateMetadata({ params }: SlugPageProps): Promise<Metad
   try {
     const post = await posts.getPostBySlug(siteId, slug);
     const title = post.seo.metaTitle || post.title;
-    const description = post.seo.metaDescription || post.excerpt || brandConfig.seoDefaults.metaDescription;
+    const description = resolvePostDescription(post, brandConfig.seoDefaults.metaDescription);
     const canonical = `/${post.slug}`;
-    const ogImage = post.seo.ogImage || post.featuredImage || brandConfig.seoDefaults.ogImage;
+    const ogImage = resolvePostOgImage(post, brandConfig.seoDefaults.ogImage);
 
     return {
       title,

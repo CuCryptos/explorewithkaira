@@ -1,4 +1,5 @@
 import type { BrandConfig, Category, Post } from '@/types';
+import { resolvePostDescription, resolveStructuredDataImage } from '@/lib/seo';
 
 interface KairaSchemaMarkupProps {
   type: 'article' | 'recipe';
@@ -11,11 +12,6 @@ function minutesToISO8601(minutes: number): string {
   return `PT${minutes}M`;
 }
 
-function safeImage(url?: string): string | undefined {
-  if (!url || url.includes('wp-content')) return undefined;
-  return url;
-}
-
 function buildArticleJsonLd(data: Post, brandConfig: BrandConfig) {
   return {
     '@context': 'https://schema.org',
@@ -23,8 +19,8 @@ function buildArticleJsonLd(data: Post, brandConfig: BrandConfig) {
     headline: data.title,
     datePublished: data.publishedAt?.toISOString() ?? '',
     dateModified: data.updatedAt.toISOString(),
-    image: safeImage(data.featuredImage),
-    description: data.seo.metaDescription || data.excerpt,
+    image: resolveStructuredDataImage(data),
+    description: resolvePostDescription(data, brandConfig.seoDefaults.metaDescription),
     author: {
       '@type': 'Person',
       name: brandConfig.siteName,
@@ -44,8 +40,8 @@ function buildRecipeJsonLd(data: Post, brandConfig: BrandConfig, category?: Cate
     '@context': 'https://schema.org',
     '@type': 'Recipe',
     name: data.title,
-    image: safeImage(data.featuredImage),
-    description: data.seo.metaDescription || data.excerpt,
+    image: resolveStructuredDataImage(data),
+    description: resolvePostDescription(data, brandConfig.seoDefaults.metaDescription),
     recipeCategory: category?.name || 'Main Course',
     recipeCuisine: 'Hawaiian',
     prepTime: minutesToISO8601(prepTime),

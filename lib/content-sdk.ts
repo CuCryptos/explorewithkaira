@@ -10,6 +10,7 @@ import type {
   PostInput,
   SitemapEntry,
 } from '@/types';
+import { sanitizeExcerpt } from '@/lib/seo';
 
 interface PostRow {
   id: string;
@@ -67,7 +68,7 @@ function mapRowToPost(row: PostRow): Post {
     title: row.title,
     slug: row.slug,
     content: row.content,
-    excerpt: row.excerpt,
+    excerpt: sanitizeExcerpt(row.excerpt),
     status: row.status as Post['status'],
     contentType: row.content_type as Post['contentType'],
     categoryId: row.category_id,
