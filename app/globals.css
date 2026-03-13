@@ -1,0 +1,135 @@
+@import "tailwindcss";
+@import "../styles/prose.css";
+@import "../styles/print.css";
+
+/* Tailwind v4 theme — map mugon CSS variables to utility classes */
+@theme {
+  /* Colors */
+  --color-mugon-primary: var(--mugon-color-primary);
+  --color-mugon-secondary: var(--mugon-color-secondary);
+  --color-mugon-accent: var(--mugon-color-accent);
+  --color-mugon-background: var(--mugon-color-background);
+  --color-mugon-text: var(--mugon-color-text);
+  --color-mugon-muted: var(--mugon-color-muted);
+  --color-mugon-border: var(--mugon-color-border);
+  --color-mugon-surface: var(--mugon-color-surface);
+
+  /* Font families */
+  --font-mugon-heading: var(--mugon-font-heading);
+  --font-mugon-body: var(--mugon-font-body);
+
+  /* Font sizes */
+  --text-mugon-sm: var(--mugon-text-sm);
+  --text-mugon-base: var(--mugon-text-base);
+  --text-mugon-lg: var(--mugon-text-lg);
+  --text-mugon-xl: var(--mugon-text-xl);
+  --text-mugon-2xl: var(--mugon-text-2xl);
+  --text-mugon-3xl: var(--mugon-text-3xl);
+  --text-mugon-4xl: var(--mugon-text-4xl);
+  --text-mugon-5xl: var(--mugon-text-5xl);
+
+  /* Spacing */
+  --spacing-mugon-xs: var(--mugon-space-xs);
+  --spacing-mugon-sm: var(--mugon-space-sm);
+  --spacing-mugon-md: var(--mugon-space-md);
+  --spacing-mugon-lg: var(--mugon-space-lg);
+  --spacing-mugon-xl: var(--mugon-space-xl);
+
+  /* Max widths */
+  --container-mugon-content: var(--mugon-content-width);
+  --container-mugon-content-wide: var(--mugon-content-width-wide);
+
+  /* Border radius */
+  --radius-mugon-sm: var(--mugon-radius-sm);
+  --radius-mugon-md: var(--mugon-radius-md);
+  --radius-mugon-lg: var(--mugon-radius-lg);
+
+  /* Line height */
+  --leading-mugon-body: var(--mugon-line-height-body);
+  --leading-mugon-heading: var(--mugon-line-height-heading);
+}
+
+/* Brand tokens — Kaira gold */
+:root {
+  /* Localized Ikki typography + layout tokens */
+  --mugon-line-height-body: 1.65;
+  --mugon-line-height-heading: 1.1;
+  --mugon-text-sm: 0.75rem;
+  --mugon-text-base: 1rem;
+  --mugon-text-lg: 1.333rem;
+  --mugon-text-xl: 1.777rem;
+  --mugon-text-2xl: 2.369rem;
+  --mugon-text-3xl: 3.157rem;
+  --mugon-text-4xl: 4.209rem;
+  --mugon-text-5xl: 5.61rem;
+  --mugon-space-xs: 0.5rem;
+  --mugon-space-sm: 1rem;
+  --mugon-space-md: 1.5rem;
+  --mugon-space-lg: 2.5rem;
+  --mugon-space-xl: 4rem;
+  --mugon-content-width: 700px;
+  --mugon-content-width-wide: 1000px;
+  --mugon-radius-sm: 0px;
+  --mugon-radius-md: 2px;
+  --mugon-radius-lg: 4px;
+
+  --mugon-color-primary: #c9a84c;
+  --mugon-color-secondary: #4f3923;
+  --mugon-color-accent: #d4b875;
+  --mugon-color-background: #f7f1e8;
+  --mugon-color-text: #1d1610;
+  --mugon-color-muted: #726757;
+  --mugon-color-border: #e5d8c8;
+  --mugon-color-surface: #fffaf4;
+}
+
+/* Wire next/font CSS variables into mugon font tokens */
+:root {
+  --mugon-font-heading: var(--font-heading), "Playfair Display", serif;
+  --mugon-font-body: var(--font-body), "Inter", sans-serif;
+}
+
+html {
+  background:
+    radial-gradient(circle at top left, rgba(201, 168, 76, 0.12), transparent 25%),
+    linear-gradient(180deg, #f8f2ea 0%, #f4ece2 100%);
+}
+
+body {
+  min-height: 100vh;
+  background: transparent;
+  color: var(--mugon-color-text);
+}
+
+::selection {
+  background: rgba(201, 168, 76, 0.26);
+}
+
+.kaira-prose {
+  max-width: 720px;
+}
+
+.kaira-prose p {
+  font-size: 1.03rem;
+  line-height: 1.9;
+  color: color-mix(in srgb, var(--mugon-color-text) 82%, white);
+}
+
+.kaira-prose h2,
+.kaira-prose h3,
+.kaira-prose h4 {
+  letter-spacing: -0.02em;
+}
+
+.kaira-prose blockquote {
+  background: rgba(255, 250, 244, 0.85);
+  border-radius: 24px;
+  border-left-width: 0;
+  padding: 1.5rem 1.5rem 1.5rem 1.7rem;
+}
+
+.kaira-prose img {
+  border-radius: 26px;
+  overflow: hidden;
+  box-shadow: 0 18px 50px rgba(22, 16, 10, 0.08);
+}

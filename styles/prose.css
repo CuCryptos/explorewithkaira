@@ -1,0 +1,100 @@
+/*
+ * Prose styling for rendered article HTML.
+ */
+
+.prose-mugon {
+  font-family: var(--mugon-font-body);
+  font-size: var(--mugon-text-base);
+  line-height: var(--mugon-line-height-body);
+  color: var(--mugon-color-text);
+}
+
+.prose-mugon p {
+  margin-bottom: var(--mugon-space-md);
+}
+
+.prose-mugon h2 {
+  font-family: var(--mugon-font-heading);
+  font-size: var(--mugon-text-2xl);
+  line-height: var(--mugon-line-height-heading);
+  margin-top: var(--mugon-space-xl);
+  margin-bottom: var(--mugon-space-sm);
+  color: var(--mugon-color-text);
+}
+
+.prose-mugon h3 {
+  font-family: var(--mugon-font-heading);
+  font-size: var(--mugon-text-xl);
+  line-height: var(--mugon-line-height-heading);
+  margin-top: var(--mugon-space-lg);
+  margin-bottom: var(--mugon-space-xs);
+  color: var(--mugon-color-text);
+}
+
+.prose-mugon h4 {
+  font-family: var(--mugon-font-heading);
+  font-size: var(--mugon-text-lg);
+  line-height: var(--mugon-line-height-heading);
+  margin-top: var(--mugon-space-lg);
+  margin-bottom: var(--mugon-space-xs);
+  color: var(--mugon-color-text);
+}
+
+.prose-mugon a {
+  color: var(--mugon-color-primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose-mugon a:hover {
+  color: var(--mugon-color-secondary);
+}
+
+.prose-mugon ul,
+.prose-mugon ol {
+  margin-bottom: var(--mugon-space-md);
+  padding-left: 1.5em;
+}
+
+.prose-mugon li {
+  margin-bottom: 0.5em;
+}
+
+.prose-mugon ul {
+  list-style-type: disc;
+}
+
+.prose-mugon ol {
+  list-style-type: decimal;
+}
+
+.prose-mugon img {
+  max-width: 100%;
+  height: auto;
+  margin-top: var(--mugon-space-md);
+  margin-bottom: var(--mugon-space-md);
+}
+
+.prose-mugon blockquote {
+  border-left: 3px solid var(--mugon-color-primary);
+  padding-left: var(--mugon-space-md);
+  margin: var(--mugon-space-md) 0;
+  color: var(--mugon-color-muted);
+  font-style: italic;
+}
+
+.prose-mugon strong {
+  font-weight: 600;
+}
+
+.prose-mugon hr {
+  border: none;
+  border-top: 1px solid var(--mugon-color-border);
+  margin: var(--mugon-space-lg) 0;
+}
+
+.prose-mugon h2 + p,
+.prose-mugon h3 + p,
+.prose-mugon h4 + p {
+  margin-top: 0;
+}

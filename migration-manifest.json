@@ -1,0 +1,1155 @@
+{
+  "wpUrl": "https://explorewithkaira.com",
+  "generatedAt": "2026-03-07T19:10:36.952Z",
+  "niche": "hawaiian-food",
+  "nicheKeywords": [
+    "hawaiian",
+    "hawaii",
+    "poke",
+    "musubi",
+    "mochi",
+    "luau",
+    "aloha",
+    "island",
+    "tropical",
+    "kalua",
+    "haupia",
+    "malasada",
+    "loco moco",
+    "plate lunch",
+    "poi",
+    "taro",
+    "spam",
+    "maui",
+    "oahu",
+    "kona",
+    "hilo",
+    "waikiki",
+    "shave ice",
+    "li hing",
+    "teriyaki",
+    "pua'a",
+    "lau lau",
+    "pipikaula",
+    "paniolo",
+    "saimin",
+    "manapua"
+  ],
+  "summary": {
+    "total": 109,
+    "suggestedMigrate": 21,
+    "suggestedSkip": 88,
+    "categories": 6,
+    "tags": 30
+  },
+  "posts": [
+    {
+      "wpId": 1736,
+      "slug": "tulum-weekend-guide",
+      "title": "Tulum Weekend Guide: Three Days Between the Jungle and the Sea",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1737,
+      "slug": "tulum-luxury-hotels-honest-review",
+      "title": "Tulum’s Luxury Hotels, Ranked by Someone Who’s Actually Stayed in Them",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1732,
+      "slug": "mykonos-weekend-guide",
+      "title": "Mykonos Weekend Guide: Three Days Between the White and the Blue",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1731,
+      "slug": "mykonos-luxury-hotels-honest-guide",
+      "title": "The Beds I’ve Slept In: An Honest Guide to Mykonos Luxury Hotels",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1729,
+      "slug": "bali-weekend-guide-three-days",
+      "title": "Bali in Three Days: Rice Terraces, Volcano Dawns, and the Seafood Sunset That Ruins You for Everything After",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1733,
+      "slug": "bali-luxury-hotels-honest-guide",
+      "title": "The Honest Guide to Bali’s Luxury Hotels: Where to Stay and What Nobody Tells You",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1727,
+      "slug": "bali-hidden-gems-beyond-tourist-triangle",
+      "title": "Bali Beyond the Brunch: The Island That Reveals Itself to Those Who Leave the Tourist Triangle",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1726,
+      "slug": "dubai-in-three-days-where-desert-silence-meets-the-worlds-loudest-skyline",
+      "title": "Dubai in Three Days: Where Desert Silence Meets the World’s Loudest Skyline",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1724,
+      "slug": "dubai-luxury-hotels-honestly-ranked",
+      "title": "Dubai’s Luxury Hotels, Honestly Ranked: Where the Money Actually Goes",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1723,
+      "slug": "dubai-hidden-gems-beyond-skyscrapers",
+      "title": "Dubai’s Hidden Gems: The City Behind the Glass",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1722,
+      "slug": "paris-weekend-guide",
+      "title": "A Weekend in Paris: Three Days of Light, Long Lunches, and Doors That Open Slowly",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1734,
+      "slug": "paris-luxury-hotels-honest-review",
+      "title": "Gardens, Gold Leaf, and the Weight of a Brass Key: Paris’s Finest Hotels, Honestly Reviewed",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1721,
+      "slug": "paris-hidden-gems",
+      "title": "Paris Hidden Gems: The City Behind the Postcard",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1690,
+      "slug": "montenegro-last-quiet-corner-mediterranean",
+      "title": "Montenegro: The Last Quiet Corner of the Mediterranean (For Now)",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1688,
+      "slug": "airline-loyalty-programs-hostage-negotiation",
+      "title": "Your Airline Loyalty Program Is a Hostage Negotiation (And You’re the Hostage)",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1686,
+      "slug": "the-brando-tetiaroa-honest-review",
+      "title": "The Brando, Tetiaroa: What $4,000 a Night Actually Buys on Marlon Brando’s Private Island",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1657,
+      "slug": "oman-the-gulf-state-that-chose-silence-over-spectacle",
+      "title": "Oman: The Gulf State That Chose Silence Over Spectacle",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1656,
+      "slug": "the-resort-fee-is-a-lie-and-the-hotel-industry-knows-it",
+      "title": "The Resort Fee Is a Lie (And the Hotel Industry Knows It)",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1655,
+      "slug": "deplar-farm-the-4000-converted-sheep-farm-where-luxury-means-helicopter-fuel-and-communal-dinner",
+      "title": "Deplar Farm: The $4,000 Converted Sheep Farm Where Luxury Means Helicopter Fuel and Communal Dinner",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1626,
+      "slug": "explora-atacama-honest-review",
+      "title": "Explora Atacama: The $1,500 Desert Lodge That Sells Exploration — And Charges Extra for the Pool",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1621,
+      "slug": "amangiri-honest-review",
+      "title": "Amangiri: The $4,000 Desert Hotel That Became an Instagram Set — And What It Actually Costs",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1615,
+      "slug": "banyan-tree-alula-honest-review",
+      "title": "Banyan Tree AlUla: The $2,000 Desert Hotel Saudi Arabia Built to Change Its Reputation",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1611,
+      "slug": "nihi-sumba-honest-review",
+      "title": "Nihi Sumba: The $1,500 Resort That Might Be the Last Honest Luxury Left",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1607,
+      "slug": "fogo-island-inn-honest-review",
+      "title": "Fogo Island Inn: The $2,500 Hotel at the Edge of the World That Might Be Worth Every Dollar",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1600,
+      "slug": "aman-tokyo-honest-review",
+      "title": "Aman Tokyo: The Quietest $2,000 You’ll Ever Spend",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1492,
+      "slug": "the-pink-city-to-the-white-city-five-days-on-the-road-that-connects-rajasthans-two-souls",
+      "title": "The Pink City to the White City: Five Days on the Road That Connects Rajasthan’s Two Souls",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1491,
+      "slug": "three-days-between-two-continents-an-istanbul-weekend-for-the-deliberately-unprepared",
+      "title": "Three Days Between Two Continents: An Istanbul Weekend for the Deliberately Unprepared",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1490,
+      "slug": "architecture-of-emptiness-luxury-hotel-minimalist-temple",
+      "title": "The Architecture of Emptiness: Why Every New Luxury Hotel Looks Like a Minimalist Temple",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1489,
+      "slug": "three-days-between-two-oceans-a-cape-town-weekend-for-those-who-want-the-real-thing",
+      "title": "Three Days Between Two Oceans: A Cape Town Weekend for Those Who Want the Real Thing",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1488,
+      "slug": "three-days-of-heat-ceviche-and-champeta-a-cartagena-weekend-that-gets-it-right",
+      "title": "Three Days of Heat, Ceviche, and Champeta: A Cartagena Weekend That Gets It Right",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1487,
+      "slug": "business-class-sweet-spot-first-class-scam",
+      "title": "Business Class Is the Sweet Spot (And First Class Is a Scam)",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1486,
+      "slug": "sleeping-between-empires-where-to-rest-your-head-in-a-city-that-never-rests",
+      "title": "Sleeping Between Empires: Where to Rest Your Head in a City That Never Rests",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1485,
+      "slug": "sleeping-in-maharajas-bedrooms-five-rajasthan-palaces-where-the-luxury-is-older-than-your-country",
+      "title": "Sleeping in Maharajas’ Bedrooms: Five Rajasthan Palaces Where the Luxury Is Older Than Your Country",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1484,
+      "slug": "between-the-mountain-and-the-atlantic-cape-towns-finest-hotels-honestly-reviewed",
+      "title": "Between the Mountain and the Atlantic: Cape Town’s Finest Hotels, Honestly Reviewed",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1483,
+      "slug": "behind-convent-doors-and-colonial-walls-where-to-sleep-in-cartagena-honestly-reviewed",
+      "title": "Behind Convent Doors and Colonial Walls: Where to Sleep in Cartagena, Honestly Reviewed",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1482,
+      "slug": "solo-female-travel-not-bravery",
+      "title": "Solo Female Travel Is Not an Act of Bravery",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1481,
+      "slug": "the-city-that-keeps-its-doors-half-open-istanbuls-hidden-worlds-beyond-the-minarets",
+      "title": "The City That Keeps Its Doors Half-Open: Istanbul’s Hidden Worlds Beyond the Minarets",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1480,
+      "slug": "the-geometry-of-forgetting-rajasthans-stepwells-lost-cities-and-the-treasures-no-tour-bus-will-show-you",
+      "title": "The Geometry of Forgetting: Rajasthan’s Stepwells, Lost Cities, and the Treasures No Tour Bus Will Show You",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1479,
+      "slug": "where-the-mountain-meets-the-sea-cape-towns-hidden-world-beyond-the-postcard",
+      "title": "Where the Mountain Meets the Sea: Cape Town’s Hidden World Beyond the Postcard",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1478,
+      "slug": "the-city-beyond-the-walls-cartagenas-secret-heartbeat-in-the-places-tourists-never-find",
+      "title": "The City Beyond the Walls: Cartagena’s Secret Heartbeat in the Places Tourists Never Find",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1335,
+      "slug": "three-days-in-jose-ignacio-sand-streets-seven-fires-and-the-art-of-slowing-down",
+      "title": "Three Days in José Ignacio: Sand Streets, Seven Fires, and the Art of Slowing Down",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1334,
+      "slug": "art-on-unpaved-roads-jose-ignacios-luxury-hotels-honestly-reviewed",
+      "title": "Art on Unpaved Roads: José Ignacio’s Luxury Hotels, Honestly Reviewed",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1333,
+      "slug": "where-only-the-wind-is-in-a-hurry-jose-ignacios-hidden-secrets-beyond-the-beach",
+      "title": "Where Only the Wind Is in a Hurry: José Ignacio’s Hidden Secrets Beyond the Beach",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1311,
+      "slug": "three-days-in-luang-prabang-temple-bells-turquoise-falls-and-the-mekongs-golden-hour",
+      "title": "Three Days in Luang Prabang: Temple Bells, Turquoise Falls, and the Mekong’s Golden Hour",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1310,
+      "slug": "where-aman-meets-the-mekong-luang-prabangs-luxury-hotels-honestly-reviewed",
+      "title": "Where Aman Meets the Mekong: Luang Prabang’s Luxury Hotels, Honestly Reviewed",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1309,
+      "slug": "the-temple-bells-still-echoing-luang-prabangs-ancient-secrets-beyond-the-guidebook",
+      "title": "The Temple Bells Still Echoing: Luang Prabang’s Ancient Secrets Beyond the Guidebook",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1287,
+      "slug": "three-days-bazaruto-weekend-guide-mozambique",
+      "title": "Three Days in Bazaruto: Dugongs, Coral Cathedrals, and the Edge of Everything",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1286,
+      "slug": "bazaruto-luxury-hotels-where-to-stay-mozambique",
+      "title": "Barefoot on Benguerra: Where to Stay in Mozambique’s Secret Archipelago",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1285,
+      "slug": "bazaruto-hidden-gems-dugongs-ghost-hotels",
+      "title": "The Last Sanctuary: Bazaruto’s Dugongs, Ghost Hotels, and the Edge of the World",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1263,
+      "slug": "three-days-comporta-weekend-guide",
+      "title": "Three Days in Comporta: Rice Fields, Wild Beaches, and the Art of Doing Nothing",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1262,
+      "slug": "comporta-luxury-hotels-where-to-stay",
+      "title": "Pine Forests and Infinity Pools: Where to Sleep in Portugal’s Best-Kept Secret",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1261,
+      "slug": "comporta-hidden-gems-beyond-beach",
+      "title": "Where the Storks Still Remember: Comporta’s Hidden World Beyond the Beach",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1239,
+      "slug": "alula-weekend-guide-three-days-sandstone-stars",
+      "title": "Three Days in AlUla: Sandstone, Stars, and the Silence Between",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1238,
+      "slug": "alula-luxury-hotels-where-to-stay-desert",
+      "title": "Between Ancient Walls and Infinity Pools: Where to Stay in AlUla",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1237,
+      "slug": "alula-hidden-gems-lost-kingdoms-beyond-hegra",
+      "title": "The Desert Remembers Everything: Searching for AlUla’s Lost Kingdoms",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1104,
+      "slug": "amalfi-coast-hidden-gems-path-of-gods",
+      "title": "The Salt-Sweet Secret: Amalfi Coast’s Hidden Gems Beyond the Postcards",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1103,
+      "slug": "marrakech-weekend-guide-three-days",
+      "title": "A Weekend in Marrakech: Three Days of Spice, Light, and Ancient Walls",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1102,
+      "slug": "tokyo-weekend-guide-three-days",
+      "title": "Three Days in Tokyo: Where Ancient Rituals Meet Electric Dreams",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1095,
+      "slug": "amalfi-coast-luxury-hotels-positano-ravello",
+      "title": "Between Sea and Sky: The Amalfi Coast’s Most Extraordinary Hotels",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1094,
+      "slug": "marrakech-hidden-gems-beyond-souks",
+      "title": "The Scent of Orange Blossoms: Marrakech’s Hidden Gems Beyond the Souks",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1093,
+      "slug": "tokyo-luxury-hotels-aman-park-hyatt",
+      "title": "The Art of Stillness: Tokyo’s Luxury Hotels That Redefine Sanctuary",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1086,
+      "slug": "amalfi-coast-weekend-guide-three-days",
+      "title": "Three Days on the Amalfi Coast: Cliffside Dreams Meet Lemon-Scented Reality",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1085,
+      "slug": "marrakech-luxury-riads-hotels",
+      "title": "Behind Marrakech’s Heaviest Doors: The Riads That Redefine Luxury",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1084,
+      "slug": "tokyo-hidden-gems-secret-corners",
+      "title": "Tokyo’s Secret Corners: Finding Magic in the Shadows",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1063,
+      "slug": "traveling-with-friends-survival-guide",
+      "title": "Traveling With Friends Is a Stress Test. Here’s How to Pass It.",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1062,
+      "slug": "ai-algorithm-planned-european-trip-experiment",
+      "title": "I Let an Algorithm Plan My Trip. Here’s What It Got Right (and Very Wrong)",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1061,
+      "slug": "ayurvedic-wellness-retreat-ubud-transformation",
+      "title": "The Wellness Retreat That Actually Changed Something",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1060,
+      "slug": "72-hours-kyoto-slow-luxury-itinerary",
+      "title": "72 Hours in Kyoto: A Slow Luxury Itinerary",
+      "categories": [
+        "Destinations",
+        "Itineraries"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1059,
+      "slug": "secret-paris-hotel-suites-unlisted-rooms",
+      "title": "The Suite You Can’t Google: How to Book the Rooms Hotels Don’t Advertise",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1025,
+      "slug": "marrakech-is-sensory-overload-thats-the-point",
+      "title": "Marrakech Is Sensory Overload. That’s the Point.",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1024,
+      "slug": "tokyo-doesnt-do-luxury-the-way-you-think-it-does",
+      "title": "Tokyo Doesn’t Do Luxury the Way You Think It Does",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1023,
+      "slug": "milos-the-greek-island-that-santorini-used-to-be",
+      "title": "Milos: The Greek Island That Santorini Used to Be",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1022,
+      "slug": "the-omakase-that-changed-how-i-think-about-food",
+      "title": "The Omakase That Changed How I Think About Food",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1021,
+      "slug": "the-art-of-eating-alone-a-guide-for-people-who-think-its-sad",
+      "title": "The Art of Eating Alone: A Guide for People Who Think It’s Sad",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1020,
+      "slug": "how-to-pack-for-two-weeks-in-one-carry-on-without-looking-like-you-did",
+      "title": "How to Pack for Two Weeks in One Carry-On (Without Looking Like You Did)",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1019,
+      "slug": "overtourism-isnt-a-problem-bad-tourism-is",
+      "title": "Overtourism Isn’t a Problem. Bad Tourism Is.",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1018,
+      "slug": "the-influencer-hotel-pipeline-is-ruining-boutique-travel",
+      "title": "The Influencer Hotel Pipeline Is Ruining Boutique Travel",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1017,
+      "slug": "airport-lounges-same-beige",
+      "title": "Every Airport Lounge Is the Same Shade of Beige",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1016,
+      "slug": "why-no-star-ratings",
+      "title": "Why I Don’t Use Star Ratings",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1015,
+      "slug": "santorini-beautiful-place-stand-in-line",
+      "title": "Santorini Is a Beautiful Place to Stand in a Line",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1014,
+      "slug": "limoncello-tourist-trap-amalfi",
+      "title": "Limoncello Is a Tourist Trap. Here’s What Locals Actually Drink.",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1013,
+      "slug": "hotel-santa-caterina-amalfi-review",
+      "title": "Hotel Santa Caterina: Old Money Energy in a New Money World",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1012,
+      "slug": "amalfi-coast-not-instagram",
+      "title": "The Amalfi Coast Is Not What Instagram Promised You",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1011,
+      "slug": "myth-of-authentic-travel",
+      "title": "The Myth of “Authentic Travel” (And Who’s Really Selling It)",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1010,
+      "slug": "tulum-wellness-scams",
+      "title": "The $40 Smoothie Economy and Other Tulum Wellness Scams",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1009,
+      "slug": "nomade-tulum-review",
+      "title": "Nomade Tulum: Beautiful, Overpriced, and Somehow Still Worth It",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1008,
+      "slug": "tulum-before-6am",
+      "title": "Tulum Before 6 AM: The Version Worth Visiting",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1007,
+      "slug": "luxury-hotel-lobbies-same",
+      "title": "Why Every Luxury Hotel Lobby Looks the Same Now",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1006,
+      "slug": "le-cinq-sommelier-paris",
+      "title": "Le Cinq, a Sommelier, and the Wine He Didn’t Want Me to Order",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1005,
+      "slug": "ritz-paris-review",
+      "title": "The Ritz Paris Is Living Off a Reputation It Stopped Earning",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1004,
+      "slug": "paris-doesnt-care",
+      "title": "Paris Doesn’t Care If You Like It",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1003,
+      "slug": "four-seasons-sayan-bali-review",
+      "title": "Four Seasons at Sayan: The Only Bali Resort Worth Leaving the Beach For",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1002,
+      "slug": "bali-luxury-problem",
+      "title": "Bali’s Luxury Problem: When Paradise Becomes a Brand",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1001,
+      "slug": "best-bar-dubai",
+      "title": "The Best Bar in Dubai Is the One That Doesn’t Advertise",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 1000,
+      "slug": "atlantis-the-royal-dubai-review",
+      "title": "Atlantis The Royal: A Billion Dollars of Proof That More Is More",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 999,
+      "slug": "dubai-doesnt-need-your-approval",
+      "title": "Dubai Doesn’t Need Your Approval — and That’s Why It Works",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 998,
+      "slug": "golden-hour-mykonos",
+      "title": "The Golden Hour in Mykonos Lasts Exactly Twenty-Three Minutes",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 997,
+      "slug": "eating-in-mykonos",
+      "title": "Eating in Mykonos: The Taverna No One Talks About and the Table Everyone Overpays For",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 996,
+      "slug": "cavo-tagoo-mykonos-review",
+      "title": "Cavo Tagoo Mykonos: Worth the Hype, Not Worth the Restaurant",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 995,
+      "slug": "mykonos-beyond-the-windmills",
+      "title": "Mykonos Beyond the Windmills: The Island They Don’t Put in the Brochure",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 762,
+      "slug": "nostalgia-retro-travel-adult-summer-camps-retro-pop-ups-arctic-adventures",
+      "title": "Nostalgia Is the New Luxury and I Have Complicated Feelings About It",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 761,
+      "slug": "tech-driven-travel-subscription-models-seamless-payments-vip-loyalty",
+      "title": "The Subscription Trap: When Hotels Want a Relationship",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 760,
+      "slug": "wellness-calmcations-silent-retreats-forest-bathing-tech-free-luxury",
+      "title": "The Silence Industry: When Luxury Travel Tells You to Shut Up",
+      "categories": [
+        "The Take"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 759,
+      "slug": "event-driven-gig-tripping-traveling-for-concerts-festivals-tv-locations",
+      "title": "You’re Not Traveling for the Concert. You’re Traveling for the Story.",
+      "categories": [
+        "Living Well"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 758,
+      "slug": "the-rise-of-beach-destinations-unique-lodging-in-2025-puerto-rico-curacao-maui-more",
+      "title": "Beach Destinations Everyone’s Discovering at the Same Time",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 752,
+      "slug": "st-regis-bora-bora-review",
+      "title": "St. Regis Bora Bora: Waking Up Above Water Is Not a Spiritual Experience",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 751,
+      "slug": "luxury-oahu-itinerary",
+      "title": "Seven Days in Oahu: Too Short for the Island, Too Long for the Resorts",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 749,
+      "slug": "real-white-lotus-hotels-kaira",
+      "title": "The White Lotus Hotels Are Real. The Experience Isn’t What You Think.",
+      "categories": [
+        "Hotel Reviews"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    },
+    {
+      "wpId": 748,
+      "slug": "ultimate-luxury-guide-maui-kaira",
+      "title": "Maui Doesn’t Need Another Luxury Guide. Here’s One Anyway.",
+      "categories": [
+        "Destinations"
+      ],
+      "migrate": true,
+      "reason": "all content on-topic luxury travel"
+    }
+  ]
+}

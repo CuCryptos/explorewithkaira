@@ -1,0 +1,62 @@
+@media print {
+  header,
+  footer,
+  nav,
+  .no-print,
+  button {
+    display: none !important;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 12pt;
+    line-height: 1.5;
+  }
+
+  .recipe-card {
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  h1,
+  h2,
+  h3 {
+    page-break-after: avoid;
+    font-family: Georgia, serif;
+  }
+
+  h1 {
+    font-size: 18pt;
+  }
+
+  h2 {
+    font-size: 14pt;
+    margin-top: 12pt;
+  }
+
+  h3 {
+    font-size: 12pt;
+    margin-top: 8pt;
+  }
+
+  .recipe-card ul,
+  .recipe-card ol {
+    page-break-inside: avoid;
+  }
+
+  a {
+    color: black !important;
+    text-decoration: none !important;
+  }
+
+  main > *:not(article) {
+    display: none !important;
+  }
+
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+}
