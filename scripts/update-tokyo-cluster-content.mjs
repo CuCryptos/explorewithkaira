@@ -30,6 +30,7 @@ const clusterLinks = `
   <p class="kaira-eyebrow">Build the rest of your Tokyo trip</p>
   <ul>
     <li><a href="/tokyo-luxury-hotels-aman-park-hyatt">Best luxury hotels in Tokyo</a></li>
+    <li><a href="/where-to-stay-in-tokyo-luxury-neighborhood-guide">Where to stay in Tokyo</a></li>
     <li><a href="/tokyo-weekend-guide-three-days">3 days in Tokyo</a></li>
     <li><a href="/tokyo-hidden-gems-secret-corners">Tokyo hidden gems</a></li>
     <li><a href="/aman-tokyo-honest-review">Aman Tokyo review</a></li>
@@ -119,7 +120,12 @@ for (const update of updates) {
     content = content.replace(replacement.from, replacement.to);
   }
 
-  if (!content.includes('data-kaira-cluster-links="tokyo"')) {
+  if (content.includes('data-kaira-cluster-links="tokyo"')) {
+    content = content.replace(
+      /<div class="kaira-cluster-links" data-kaira-cluster-links="tokyo">[\s\S]*?<\/div>/,
+      clusterLinks,
+    );
+  } else {
     content = `${content}\n${clusterLinks}`;
   }
 
